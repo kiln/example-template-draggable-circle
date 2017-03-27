@@ -1,4 +1,4 @@
-# Sample Flourish template: circle
+# Sample Flourish template: draggable circle
 
 This sample template builds on the [simple circle example](https://github.com/kiln/example-template-circle),
 and demonstrates how user interaction can change the state. This template can be used in the

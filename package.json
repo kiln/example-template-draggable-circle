@@ -17,13 +17,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kiln/templates.git"
+    "url": "git+https://github.com/kiln/example-template-draggable-circle.git"
   },
   "author": "Kiln Enterprises Ltd",
   "license": "BSD-3-Clause",
   "private": true,
   "bugs": {
-    "url": "https://github.com/kiln/templates/issues"
+    "url": "https://github.com/kiln/example-template-draggable-circle/issues"
   },
-  "homepage": "https://github.com/kiln/templates#readme"
+  "homepage": "https://github.com/kiln/example-template-draggable-circle#readme"
 }
